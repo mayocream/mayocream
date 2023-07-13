@@ -1,5 +1,5 @@
 📛 [**真夜**](//shoujo.io) / *マヨ* / *Mayo*   
-✒️ lang: `zh-Hans`, `ja`, `en`   
+✒️ lang: `ja`, `zh`, `en`   
 ❤️ ***Be Creative!*** 
 _「奇跡は起きます。それを望み、奮起する者のもとに、必ず、きっと」_
 
